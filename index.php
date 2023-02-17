@@ -1,0 +1,1 @@
+<?php include(PUBLIC_PATH . '/index.php'); ?>
