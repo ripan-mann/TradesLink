@@ -1,1 +1,1 @@
-<?php include(PUBLIC_PATH . '/index.php'); ?>
+<?php include('./public/index.php'); ?>
